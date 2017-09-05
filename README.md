@@ -13,7 +13,7 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**We found that Latex is useful when creating a profesional paper, because it builds a pdf with academic style. And we also found that Git is tremendously helpful in managing codes and collaborating works. We realized that it would take times and experiences to master Git, because it is a complex system.**
 
 ## Honor Pledge
 
