@@ -1,6 +1,6 @@
 # CS510 CW 1
 
-**Author(s):** _Aly Baughman and Seong Lee\_
+**Author(s):** Aly Baughman and Seong Lee\
 
 ## Specification
 
